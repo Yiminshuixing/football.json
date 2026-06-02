@@ -1,0 +1,103 @@
+{
+  "season": "2025-26",
+  "total_leagues": 19,
+  "total_matches": 6225,
+  "downloaded_at": "2026-06-02 11:26:32",
+  "leagues": [
+    {
+      "file": "at.1.json",
+      "matches": 132,
+      "name": "奥地利甲级联赛"
+    },
+    {
+      "file": "at.2.json",
+      "matches": 240,
+      "name": "奥地利乙级联赛"
+    },
+    {
+      "file": "be.1.json",
+      "matches": 240,
+      "name": "比利时甲级联赛"
+    },
+    {
+      "file": "de.1.json",
+      "matches": 306,
+      "name": "德国甲级联赛"
+    },
+    {
+      "file": "de.2.json",
+      "matches": 306,
+      "name": "德国乙级联赛"
+    },
+    {
+      "file": "en.1.json",
+      "matches": 380,
+      "name": "英格兰超级联赛"
+    },
+    {
+      "file": "en.2.json",
+      "matches": 557,
+      "name": "英格兰冠军联赛"
+    },
+    {
+      "file": "en.3.json",
+      "matches": 552,
+      "name": "英格兰甲级联赛"
+    },
+    {
+      "file": "es.1.json",
+      "matches": 380,
+      "name": "西班牙甲级联赛"
+    },
+    {
+      "file": "es.2.json",
+      "matches": 462,
+      "name": "西班牙乙级联赛"
+    },
+    {
+      "file": "fr.1.json",
+      "matches": 306,
+      "name": "法国甲级联赛"
+    },
+    {
+      "file": "fr.2.json",
+      "matches": 306,
+      "name": "法国乙级联赛"
+    },
+    {
+      "file": "gr.1.json",
+      "matches": 182,
+      "name": "希腊甲级联赛"
+    },
+    {
+      "file": "it.1.json",
+      "matches": 380,
+      "name": "意大利甲级联赛"
+    },
+    {
+      "file": "it.2.json",
+      "matches": 380,
+      "name": "意大利乙级联赛"
+    },
+    {
+      "file": "nl.1.json",
+      "matches": 306,
+      "name": "荷兰甲级联赛"
+    },
+    {
+      "file": "pt.1.json",
+      "matches": 306,
+      "name": "葡萄牙甲级联赛"
+    },
+    {
+      "file": "sco.1.json",
+      "matches": 198,
+      "name": "苏格兰超级联赛"
+    },
+    {
+      "file": "tr.1.json",
+      "matches": 306,
+      "name": "土耳其超级联赛"
+    }
+  ]
+}
